@@ -72,7 +72,3 @@ This repository contains a robust Python-based bot designed for conducting surve
 - Gathering feedback for events or services.
 
 Developed by **Shakhzod**, this tool provides a seamless and efficient way to conduct surveys and collect feedback via Telegram, tailored to handle multilingual surveys and large-scale responses. 
-
----
-
-Let me know if you'd like to refine or add more details!
